@@ -41,7 +41,7 @@ h1 {
 
 .option:hover {
     background-color: #f8f9fa;
-    border-color: #764ba2;
+    border-color: #4a69ce;
 }
 
 .option.selected {
@@ -50,7 +50,7 @@ h1 {
 }
 
 .option.correct {
-    background-color: #28a745;
+    background-color: #4a69ce;
     color: white;
 }
 
