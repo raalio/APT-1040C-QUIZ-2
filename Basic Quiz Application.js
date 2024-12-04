@@ -23,10 +23,10 @@ const quizQuestions = [
     {
         question: "What is the correct way to declare a JavaScript variable?",
         options: [
-            "variable x = 5",
-            "var x = 5",
-            "x = 5",
-            "let x = 5"
+            "variable x = 6",
+            "var x = 6",
+            "x = 6",
+            "let x = 6"
         ],
         correctAnswer: 1
     },
