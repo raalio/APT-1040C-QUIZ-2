@@ -14,8 +14,11 @@ Restart button to take the quiz again
 Technologies Used:
 
 HTML: Defines the structure of the web page.
+
 CSS: Styles the appearance of the quiz interface.
+
 JavaScript: Handles the quiz logic, including question display, answer evaluation, scoring, and timer functionality.
+
 How the Quiz Works:
 
 Question Display: The quiz displays one question at a time, along with multiple answer choices.
@@ -26,6 +29,8 @@ Next Question: The "Next Question" button becomes enabled, allowing the user to 
 Timer: A timer counts down for each question, adding a time constraint.
 Quiz Completion: Once all questions are answered or the time runs out, the quiz ends and displays the final score and feedback.
 Restart: The "Restart Quiz" button allows the user to start the quiz again.
+
+
 Customization:
 
 Questions: Edit the quizQuestions array in the JavaScript file to add or modify questions and answers.
